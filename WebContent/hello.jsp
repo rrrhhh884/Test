@@ -7,20 +7,29 @@
 <title>Servlet/JSP Samples</title>
 </head>
 <body>
-
+★
 <%-- メッセージの出力--%>
 <!--HTML形式のコメント-->
-
+★
 
 morihayashi!!!
-test
+★test
 test0507 11:42
 
 
 <p>Hello!</p>
-<p>こんにちは！</p>
+<p>★こんにちは！</p>
 <p>こんにちは！</p>
 
+★
+★
+★
+★
+★
+★
+
+★
+★
 
 </body>
 </html>
