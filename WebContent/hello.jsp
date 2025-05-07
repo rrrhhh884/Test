@@ -12,7 +12,7 @@
 <!--HTML形式のコメント-->
 
 
-mori
+mori!
 
 
 <p>Hello!</p>
